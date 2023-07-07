@@ -103,6 +103,20 @@ textarea {
     align-content: center;
 }
 
+.gitbtn {
+    float: right;
+    height: 100%;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 1%;
+    border-radius: 20%;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: white; 
+   }
 
 .deleteBtn {
     float: right;
